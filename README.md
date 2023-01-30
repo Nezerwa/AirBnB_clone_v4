@@ -37,8 +37,6 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 - [setup_mysql_dev.sql](setup_mysql_dev.sql) - MySQL script to set-up the hbnb_dev_db database.
 - [setup_mysql_test.sql](setup_mysql_test.sql) - MySQL script to set-up the hbnb_test_db database.
 
-## Examples of Use
-** UNDER CONSTRUCTION **
 ### Console Example:
 ```
 vagrantAirBnB_clone$./console.py
